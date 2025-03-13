@@ -1,0 +1,9 @@
+.content-section {
+    display: none; /* All sections are hidden initially */
+}
+.content-section.active {
+    display: block; /* Show the active section */
+}
+.navbutton {
+    cursor: pointer;
+}

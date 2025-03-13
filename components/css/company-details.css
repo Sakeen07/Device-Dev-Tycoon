@@ -1,0 +1,20 @@
+#name-input{
+    width: 100%;
+    padding-top: 5vh;
+    padding-left: 5vh;
+    text-align: center;
+}
+
+#name-input > hr{
+    width: 80%;
+    margin: auto;
+    margin-top: 1.5vh;
+}
+
+#name-input > h3{
+    color: #333;
+}
+
+#name-input > input,p,button{
+    margin-top: 0.75vh;
+}

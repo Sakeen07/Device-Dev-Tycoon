@@ -1,0 +1,21 @@
+#device-selection{
+    text-align: center;
+    margin-top: 5vh;
+}
+
+#device-selection > h3{
+    color: #333;
+}
+
+#device-selection > button{
+    margin-top: 5vh;
+    margin-left: 5vh;
+    height: 20vh;
+    width: 20vh;
+    padding: 1vh 2vh;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

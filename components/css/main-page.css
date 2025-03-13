@@ -1,0 +1,32 @@
+#main-menu{
+    display: flex;
+
+}
+
+h1{
+    font-size: 3rem;
+    color: #333;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    padding-left: 5vh;
+    padding-top: 5vh;
+}
+
+ul > li{
+    padding: 10px;
+}
+
+ul > li > button{
+    padding: 10px;
+    width: 20vh;
+    border: none;
+    cursor: pointer;
+    
+}
+
+#sound{
+    padding: 10px;
+}
